@@ -1,0 +1,50 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K4000 (ID=0x11fa)
+    Vendor:   NVIDIA
+    VRAM:     3008 MB
+    Driver:   22.21.13.8569
+Begin MonoManager ReloadAssembly
+Platform assembly: \\bournemouth.ac.uk\data\student\home\SciTech\s5063707\Desktop\RubeGoldberg\RubeGoldberg_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading \\bournemouth.ac.uk\data\student\home\SciTech\s5063707\Desktop\RubeGoldberg\RubeGoldberg_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: \\bournemouth.ac.uk\data\student\home\SciTech\s5063707\Desktop\RubeGoldberg\RubeGoldberg_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading \\bournemouth.ac.uk\data\student\home\SciTech\s5063707\Desktop\RubeGoldberg\RubeGoldberg_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: \\bournemouth.ac.uk\data\student\home\SciTech\s5063707\Desktop\RubeGoldberg\RubeGoldberg_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading \\bournemouth.ac.uk\data\student\home\SciTech\s5063707\Desktop\RubeGoldberg\RubeGoldberg_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: \\bournemouth.ac.uk\data\student\home\SciTech\s5063707\Desktop\RubeGoldberg\RubeGoldberg_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading \\bournemouth.ac.uk\data\student\home\SciTech\s5063707\Desktop\RubeGoldberg\RubeGoldberg_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  1.510 seconds
+Platform assembly: \\bournemouth.ac.uk\data\student\home\SciTech\s5063707\Desktop\RubeGoldberg\RubeGoldberg_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: \\bournemouth.ac.uk\data\student\home\SciTech\s5063707\Desktop\RubeGoldberg\RubeGoldberg_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 43.960426 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 2590 -> priority: 1 
+  Thread -> id: 2a4c -> priority: 1 
+  Thread -> id: 1380 -> priority: 1 
+  Thread -> id: 1e48 -> priority: 1 
+  Thread -> id: 20b4 -> priority: 1 
+  Thread -> id: 1534 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.380961 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 737.
+Total: 0.141650 ms (FindLiveObjects: 0.025514 ms CreateObjectMapping: 0.019356 ms MarkObjects: 0.082702 ms  DeleteObjects: 0.013197 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.536163 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 276.
+Total: 2.053203 ms (FindLiveObjects: 0.029327 ms CreateObjectMapping: 0.039591 ms MarkObjects: 0.060707 ms  DeleteObjects: 1.922403 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.590358 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 260.
+Total: 0.233738 ms (FindLiveObjects: 0.026394 ms CreateObjectMapping: 0.025808 ms MarkObjects: 0.117015 ms  DeleteObjects: 0.063933 ms)
+
